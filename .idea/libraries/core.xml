@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/terning/application.windows64/lib/core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/terning/application.windows64/lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/terning/application.windows64/lib/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/terning/application.windows64/lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/terning/application.windows64/lib/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
